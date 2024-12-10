@@ -1,16 +1,58 @@
-👋 Hi, I'm [Vishal Kumar Maurya] – a passionate web development student with a strong foundation in front-end and back-end technologies. I love turning ideas into interactive, responsive websites and applications.
+# 👋 Hi, I'm Vishal Kumar Maurya!
 
-🖥️ Tech Stack:
+🌱 **B.Sc. (Hons) Agriculture Student | Aspiring Web Developer**
 
-Front-End: HTML5, CSS3, JavaScript (React.js, Vue.js)
-Back-End: Node.js, Express, Django
-Databases: MongoDB, PostgreSQL, MySQL
-Version Control: Git, GitHub
-Others: REST APIs, GraphQL, Firebase, Docker
-🌱 Currently learning:
+Welcome to my GitHub profile! I come from an agriculture background but am deeply passionate about technology and web development. I'm on a journey to transition into tech and build impactful web applications. Here's a little about me:
 
-Advanced JavaScript (ES6+), TypeScript, Webpack, Next.js
-Exploring serverless architecture and cloud computing
-📂 I enjoy contributing to open-source projects and collaborating on real-world projects to refine my skills. Check out my repositories to see what I've been working on!
+---
 
-⚡ Fun fact: I believe in writing clean, maintainable code and always strive to improve my coding practices.
+## 🚀 About Me
+- 🎓 **Education**: B.Sc. (Hons) in Agriculture  
+- 💻 **Learning Path**: Exploring HTML, CSS, JavaScript, and modern frameworks like React.  
+- 🌟 **Goal**: To become a skilled web developer and contribute to meaningful projects.  
+- 🔍 **Interests**: Web Development, Technology in Agriculture, and Open Source.  
+- 📬 **Reach Me**: [Your email or LinkedIn link]  
+
+---
+
+## 🛠️ Skills & Tools (In Progress)
+
+### Frontend:
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Learning:
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+
+---
+
+## 📈 GitHub Journey
+
+I'm documenting my progress as I learn web development. Here's a glimpse of my work and contributions so far:
+
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalkumarmaurya&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumarmaurya&layout=compact&theme=gruvbox)
+
+---
+
+## 🌟 Projects
+
+### 1. [Beginner Portfolio Website](https://github.com/vishalkumarmaurya/portfolio-website)
+**Description**: My first portfolio website built with HTML, CSS, and JavaScript.
+
+### 2. [Agriculture-Tech Blog](https://github.com/vishalkumarmaurya/agriculture-tech-blog)
+**Description**: A blog exploring the intersection of agriculture and technology.
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalkumarmaurya)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vishalkumarmaurya)
+
+---
+
+### 🌟 Fun Fact:
+_"I'm blending my background in agriculture with my passion for technology to explore innovative solutions!"_
