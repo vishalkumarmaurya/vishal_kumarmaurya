@@ -42,7 +42,7 @@ I'm documenting my progress as I learn web development. Here's a glimpse of my w
 ### 1. [Beginner Portfolio Website](https://github.com/vishalkumarmaurya/portfolio-website)
 **Description**: My first portfolio website built with HTML, CSS, and JavaScript.
 
-### 2. [Agriculture-Tech Blog](https://github.com/vishalkumarmaurya/agriculture-tech-blog)
+### 2. [Original Agriculture](https://originalagriculture.wordpress.com/)
 **Description**: A blog exploring the intersection of agriculture and technology.
 
 ---
