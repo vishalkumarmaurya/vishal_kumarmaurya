@@ -39,7 +39,7 @@ I'm documenting my progress as I learn web development. Here's a glimpse of my w
 
 ## 🌟 Projects
 
-### 1. [Beginner Portfolio Website](https://github.com/vishalkumarmaurya/portfolio-website)
+### 1. [Beginner Portfolio Website]https://vishalkumarmaurya.github.io/Portfolio/
 **Description**: My first portfolio website built with HTML, CSS, and JavaScript.
 
 ### 2. [Original Agriculture](https://originalagriculture.wordpress.com/)
